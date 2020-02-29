@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>新的开始</title>
+      <link href="/2020/02/29/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+      <url>/2020/02/29/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="知否知否"><a href="#知否知否" class="headerlink" title="知否知否"></a>知否知否</h1><p>这是一篇描述这两天的事情，论文不太会写，就搭建起博客写一些东西培养下自己的写的能力吧，感觉自己写东西的能力缺少逻辑、思想，脑袋跟不上潮流（大实话），先从这里开始！start。</p><h2 id="2月28日"><a href="#2月28日" class="headerlink" title="2月28日"></a>2月28日</h2><p>&emsp;&emsp;这一天我竟然搞了一下午博客的搭建，之前我已经通过谷歌云赠送的300刀建立了WordPress的博客 <a href="https://aisamsweb.ml" target="_blank" rel="noopener">https://aisamsweb.ml</a> ，想想如果想长期使用的话服务器还需要不断去付费，不太长久，于是便使用GitHub搭建起我的另一个博客，博客的域名 <a href="http://www.bokuosusume.tk">http://www.bokuosusume.tk</a> 我觉得有意思，bokuosusume是我在动漫鬼灭之刃的OP中听到的一句歌词，其实博客的搭建并不是很难，花不上1小时就建设好了，只是我很想把博客给美化下，把博客变得好看些，最终选择了melody主题。搭建之后我选择了绑定freenom的免费域名，可能是由于freenom的功能限制吧，设置好DNS后发现，只能用  <a href="http://www.bokuosusume.tk">www.bokuosusume.tk</a>  来访问我的博客，东搞西搞还是没能解决掉通过 bokuosusume.tk 访问不到的问题，折腾就这样进行了一个下午。<br>&emsp;&emsp;当天晚上一直在添加博客的功能，添加评论系统，结果发现使用gitment和gittalk都无法成功显示评论，期间各种设置竟然出现登录GitHub授权提示错误，无法登录、点击登录跳回首页的麻烦，去Google、百度之后还是无法解决，便选择laibili的评论，使用的时候问题来了，注册laibili感觉很玄学，注册期间验证码验证错误，各种注册问题出现，最终偶然试试登录才发现注册成功了，成功给博客加上评论系统，搭建博客还是挺不容易的。</p><h2 id="2月29日"><a href="#2月29日" class="headerlink" title="2月29日"></a>2月29日</h2><p>&emsp;&emsp;这两天我已经是冒着论文还完不成的风险捣腾博客了（这是论文不会写的借口吧），hexo的写文章感觉还挺麻烦，贴图感觉比较复杂，Markdown的编辑器找了找看见有大佬推荐HexoEditor，我在按照大佬安装教程安装的过程中彻底懵逼了，git 仓库网速慢得要死（明明已经全局代理了），npm install又产生了什么错误，重复又重复还是失败，然后就没有然后了，就不用了便是，这篇文章用的Notepad++来编辑的。今天，我终于解决掉域名的访问问题了，去注册cloudfare把域名的解析交给它，成功能通过bokuosusume.tk来访问我的博客，问题解决！<br>&emsp;&emsp;每个博客的问题能解决算是给自己的一点小鼓励，之前通过写python脚本，一键进行学校每天需要上报体温信息签到，不用太麻烦去手动进入万恶的易班点来点去了，每解决一步问题心情却是很激动，我希望下一步，我能解决论文问题，解决hexo博客的其他问题，加油，奥利给。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/02/28/hello-world/"/>
       <url>/2020/02/28/hello-world/</url>
