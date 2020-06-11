@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>20200611112056</title>
+      <title>梨涡（京东大学生特权app）的闲时任务查看</title>
       <link href="/2020/06/11/%E6%A2%A8%E6%B6%A1%EF%BC%88%E4%BA%AC%E4%B8%9C%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%89%B9%E6%9D%83app%EF%BC%89%E7%9A%84%E9%97%B2%E6%97%B6%E4%BB%BB%E5%8A%A1%E6%9F%A5%E7%9C%8B/"/>
       <url>/2020/06/11/%E6%A2%A8%E6%B6%A1%EF%BC%88%E4%BA%AC%E4%B8%9C%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%89%B9%E6%9D%83app%EF%BC%89%E7%9A%84%E9%97%B2%E6%97%B6%E4%BB%BB%E5%8A%A1%E6%9F%A5%E7%9C%8B/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="JavaScript-脚本"><a href="#JavaScript-脚本" class="headerlink" title="JavaScript 脚本"></a>JavaScript 脚本</h1><p>这是一个自己基于loon瞎倒腾的脚本，学艺不精还需要改进</p><h2 id="梨涡（京东大学生特权app）的闲时任务查看"><a href="#梨涡（京东大学生特权app）的闲时任务查看" class="headerlink" title="梨涡（京东大学生特权app）的闲时任务查看"></a>梨涡（京东大学生特权app）的闲时任务查看</h2><p>我的梨涡邀请码：dasaw  </p><p>邀请链接 <a href="http://2do.jd.com/events/red-envelopes/?inviter=1236228340192960513&amp;channel=cash&amp;extParam=1260048962852974594#/" target="_blank" rel="noopener">http://2do.jd.com/events/red-envelopes/?inviter=1236228340192960513&amp;channel=cash&amp;extParam=1260048962852974594#/</a>  </p><p>进野比大佬的京东京豆签到 bean.m.jd.com 再签到一下就能获取cookie了。</p><p>【Loon 2.1+ 脚本配置】:</p><p>[Script]  </p><p>cron “0 <em>/1 * * *” tag=京东梨涡任务查看, script-path=<a href="https://raw.githubusercontent.com/bokuosusume/JavaScript/master/liwotaskview.js" target="_blank" rel="noopener">https://raw.githubusercontent.com/bokuosusume/JavaScript/master/liwotaskview.js</a><br>http-request https://api.m.jd.com/client.action.</em>functionId=signBean tag=获取京东Cookie, script-path=<a href="https://raw.githubusercontent.com/bokuosusume/JavaScript/master/liwocookie.js" target="_blank" rel="noopener">https://raw.githubusercontent.com/bokuosusume/JavaScript/master/liwocookie.js</a> </p><p>[MITM]  </p><p>hostname = api.m.jd.com</p>]]></content>
       
       
       
